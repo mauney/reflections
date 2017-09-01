@@ -29,6 +29,9 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    One can see where the HEAD is, as well as what commits can be reached by 
+    different checkout points.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

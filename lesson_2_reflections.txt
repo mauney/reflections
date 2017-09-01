@@ -42,3 +42,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+    Automatic merging is great when it works, but manual merging is usually 
+    safer. The time saved with automatic merging will be lost if a hard to 
+    notice bug slips in because of the merge. Automatic merging should be 
+    conservative and notify the user of potential conflicts.

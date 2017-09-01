@@ -35,5 +35,10 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    Merging two branches together produces a commit with two parents, and the 
+    separate commits back to the common ancestor are interleaved according to 
+    timestamps. In the diagram the tow lines come together and form a single 
+    tip.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

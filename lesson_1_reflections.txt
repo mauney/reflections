@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Most of the files' contents were itentical and not shown. That allowed me 
+    to look at just the differences and see if there was an obvious mistake in 
+    those few lines.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If a bug was introduced in a previous version, I could rewind to the last 
+    good version of the code to more easily spot the bug and fix it.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually choosing commit points makes them more likely to be logical 
+    dividing points in the process. However, one must be on top of the commit 
+    process, which can be a form of multi-tasking unless making commits becomes
+    automatic or second-nature.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Different use cases are involved, so the systems take different approaches.
+    Code files are often tightly linked, and a global change may involve 
+    changes to multiple files. Having a single commit capture the entire 
+    project is useful.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log command can be used to view the status message for each commit 
+    to guide you to the version you want. The git diff command can be used to 
+    see what changed between two versions of a file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I keep the changes small between each commit, breaking something is not 
+    much of an issue if I have a good testing system in place to notice bugs as
+    quickly as possible.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for creating the Fine Arts Theatre WordPress theme and 
+    plugin. I also want to use it as I learn Python. 

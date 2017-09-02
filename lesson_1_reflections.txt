@@ -1,7 +1,7 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Most of the files' contents were itentical and not shown. That allowed me 
+    Most of the files' contents were identical and not shown. That allowed me 
     to look at just the differences and see if there was an obvious mistake in 
     those few lines.
 
@@ -43,5 +43,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I want to use Git for creating the Fine Arts Theatre WordPress theme and 
-    plugin. I also want to use it as I learn Python. 
+    I want to use Git for creating the theater's WordPress theme and 
+    plug-in. I also want to use it as I learn Python.

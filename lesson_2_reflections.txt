@@ -9,8 +9,8 @@ What value do you think it offers?
 
     The staging area does not hold references to all the files in the working 
     directory, only the files for which I want to track changes. Unlike the 
-    repositiry, the staging area refers to files with changes that have yet to 
-    be commited. This allows a user to be selective about what files are 
+    repository, the staging area refers to files with changes that have yet to 
+    be committed. This allows a user to be selective about what files are 
     included in a commit.
 
 How can you use the staging area to make sure you have one commit per logical
@@ -24,7 +24,7 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
     Branches may be helpful when I want to try out two different directions 
-    with my project, or if I want to keep the current, functioning brach as-is 
+    with my project, or if I want to keep the current, functioning branch as-is 
     while I experiment with a new feature or approach.
 
 How do the diagrams help you visualize the branch structure?
@@ -37,7 +37,7 @@ the diagram the way we do?
 
     Merging two branches together produces a commit with two parents, and the 
     separate commits back to the common ancestor are interleaved according to 
-    timestamps. In the diagram the tow lines come together and form a single 
+    timestamps. In the diagram the two lines come together and form a single 
     tip.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges

@@ -15,7 +15,19 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A fork copies someone else's GitHub project to your account. Any changes
+    you make exist only in your copy. Use this if you want to start with an
+    existing project and take it in your own direction.
+
+    Cloning a repository creates a local copy of the repository. The original
+    and the clone can be kept in sync with push and pull commands. Use this
+    when you are a collaborator on the original repository.
+
+    Starting a branch within a repository creates common commit point with the
+    original branch. You can fiddle with the code on the new branch without
+    disrupting anything on the first branch. Later, the branches can be merged
+    back together if the new branch proves fruitful. Use a branch when you want
+    to try a new feature or make other changes that may or may not be kept.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

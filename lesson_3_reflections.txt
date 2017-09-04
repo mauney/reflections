@@ -39,7 +39,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    If I were to collaborate without using Git or GitHub, I would use a
+    commonly accessible directory, such as Dropbox, and keep a running log of
+    all changes. The naming conventions of files and their updates would need
+    to be worked out in advance. Subdirectories could be created to store older
+    versions of the files to keep the clutter minimized. If some of the
+    collaborators were unfamiliar with Git, it would be easier for them to make
+    contributions in the initial stages. If the project were to grow in size or
+    complexity, the frictional costs would eventually favor Git instead of the
+    ad hoc system.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

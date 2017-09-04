@@ -32,7 +32,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Git can inform me when the local repository is ahead of the remote. I can
+    fetch from the remote and merge locally while leaving the remote untouched.
+    After a successful merge I can push from local to back up to origin.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

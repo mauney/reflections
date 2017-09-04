@@ -52,4 +52,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Using a separate branch is advisable if it is important to maintain an
+    always functioning master branch. If the code is not production code and
+    only one or two people are contributing, it may be easier to keep
+    everything on a master branch.
